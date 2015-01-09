@@ -1,0 +1,1 @@
+print "about time, tired of hello world"
