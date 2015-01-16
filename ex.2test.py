@@ -25,14 +25,3 @@ print str(gall_input) + barrels_conversion
 print str(gall_input) + carbon_d_conversion
 print str(gall_input) + ethanol_conversion
 print str(gall_input) + cost_per_gall
-
-
-
-
-
-
-
-
-
-
-
